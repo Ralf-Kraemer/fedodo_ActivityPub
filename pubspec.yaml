@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   jwt_decoder: ^2.0.1
-  http: ^0.13.5
+  http: ^1.0.0
   logger: ^1.4.0
 
 dev_dependencies:
